@@ -5,6 +5,7 @@ public class JavinhaJunior {
 		
 		System.out.println("emerson boito abencoado por DEUS");
 		System.out.println("ola ola ola ola ola ");
+		System.out.println("vamos estudar");
 	}
 	
 
